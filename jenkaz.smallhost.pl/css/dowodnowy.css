@@ -37,6 +37,7 @@ main {
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #ffffff;
     
 }
 
@@ -107,6 +108,7 @@ main {
     color: #598527;
     font-size: 14px;
     font-weight: 600;
+    background-color: #ffffff;
 }
 #bottom p{
     margin-left: 20px;
@@ -356,3 +358,4 @@ main {
     align-items: center;
 
 }
+
