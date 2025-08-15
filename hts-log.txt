@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 15 Aug 2025 22:44:14 at http://jenkaz.smallhost.pl/demObywatel_admin_IGOR_aByw6 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://jenkaz.smallhost.pl/demObywatel_admin_IGOR_aByw6 -O1 "C:\My Web Sites\strona" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:44:49	Error: 	"Not Found" (404) at link jenkaz.smallhost.pl/cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css (from jenkaz.smallhost.pl/demObywatel_admin_IGOR_aByw6/)
+22:45:06	Error: 	"Not Found" (404) at link jenkaz.smallhost.pl/demObywatel_admin_IGOR_aByw6/chrome-extension_/dacdinoicboceafielngnmjjplncljhj/content.html (from jenkaz.smallhost.pl/demObywatel_admin_IGOR_aByw6/dashboard.html)
+22:45:25	Error: 	"Not Found" (404) at link jenkaz.smallhost.pl/cdn-cgi/challenge-platform/scripts/jsd/main.js (from jenkaz.smallhost.pl/demObywatel_admin_IGOR_aByw6/dashboard.html)
+22:46:28	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/strona/jenkaz.smallhost.pl/dowod_files/normal_u391.svg
+22:46:28	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/strona/jenkaz.smallhost.pl/dowod_files/normal_u394.svg
+22:46:28	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/strona/jenkaz.smallhost.pl/dowod_files/normal_u393.svg
+22:46:28	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/strona/jenkaz.smallhost.pl/dowod_files/normal_u408.svg
+22:47:01	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/strona/jenkaz.smallhost.pl/dowod_files/checkmark.svg
+22:47:01	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/strona/jenkaz.smallhost.pl/dowod_files/arrow.svg
+22:47:01	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/strona/jenkaz.smallhost.pl/images/arrow1.svg
+22:47:01	Error: 	"Not Found" (404) at link jenkaz.smallhost.pl/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css (from jenkaz.smallhost.pl/demObywatel_admin_IGOR_aByw6/dowodnowy.html)
+22:47:01	Error: 	"Not Found" (404) at link jenkaz.smallhost.pl/dowod_files/wybierzitem1.svg (from jenkaz.smallhost.pl/css/dowodnowy.css)
+22:47:01	Error: 	"Not Found" (404) at link jenkaz.smallhost.pl/dowod_files/wybierzitem2.svg (from jenkaz.smallhost.pl/css/dowodnowy.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 47 seconds : 87 links scanned, 80 files written (4568152 bytes overall) [4599740 bytes received at 27543 bytes/sec], 89501 bytes transferred using HTTP compression in 1 files, ratio 34%, 6.7 requests per connection
+(6 errors, 7 warnings, 0 messages)
